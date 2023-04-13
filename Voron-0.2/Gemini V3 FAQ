@@ -1,0 +1,9 @@
+If you get following errors,  
+
+mcu 'mcu': Unable to open serial port:   
+[Errno 2] could not open port  
+/dev/serial/by-id/usb-Klipper_stm32f405xx_JKYZ-if00:  
+[Errno 2] No such file or directory:  
+'/dev/serial/by-id/usb-Klipper_stm32f405xx_JKYZ-if00'  
+
+Please check your jumper next to ARM Chip if it's inserted correctly.  
